@@ -19,7 +19,7 @@ public final class ModulusExercise
 	 */
 	private static int modPow(int a, int b, int p) throws ArithmeticException
 	{
-		// HINT: Consider adding something here!
+		// HINT: Consider adding something here! -- MISSING THIS!!
 		if(b == 0)
 		{
 			return 1;   // a^0 = 1 for all a
